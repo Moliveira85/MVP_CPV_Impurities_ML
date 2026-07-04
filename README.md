@@ -1,4 +1,4 @@
-# MVP - Predição de Impurezas Totais em Processo Farmacêutico
+# MVP - Predição de Impurezas Totais para Aplicações em Continued Process Verification (CPV)
 
 ## Objetivo
 
